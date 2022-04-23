@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# 利用規約
 
-You can use the [editor on GitHub](https://github.com/takecx/Scorer_Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## テスト
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+テストです
 
-### Markdown
+# プライバシーポリシー
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+takecx（以下「当方」）は、以下のとおり個人情報保護方針を定め、個人情報保護の仕組みを構築し、個人情報保護の重要性の認識と取組みを徹底することにより、個人情報の保護を推進致します。
 
-```markdown
-Syntax highlighted code block
+## 個人情報の管理
 
-# Header 1
-## Header 2
-### Header 3
+当方は、お客さまの個人情報を正確かつ最新の状態に保ち、個人情報への不正アクセス・紛失・破損・改ざん・漏洩などを防止するため、セキュリティシステムの維持・管理体制の整備・社員教育の徹底等の必要な措置を講じ、安全対策を実施し個人情報の厳重な管理を行ないます。
 
-- Bulleted
-- List
+## 個人情報の取得について
 
-1. Numbered
-2. List
+当方は、以下の情報を本サービスにおいて取得及び利用いたします。
+- 氏名、生年月日、住所、メールアドレス、その他の記述等により特定の個人を識別できるもの及び当該情報だけでは特定の個人を識別できなくても、ほかの情報と容易に照合することができ、それにより特定の個人を識別できるもの
+- お客さまのPCまたはスマートデバイスを通じて取得されるcookie、IPアドレス情報、OS、端末の個体識別情報、コンピュータ名、IDFA（Advertising Identifier (iOS) またはAdvertising ID (Android)）
 
-**Bold** and _Italic_ and `Code` text
+## 個人情報の利用目的
 
-[Link](url) and ![Image](src)
-```
+お客さまからお預かりした個人情報は、以下の利用目的に利用いたします。
+- お客さまの本人確認、当方からのご連絡や業務のご案内やご質問に対する回答
+- サービスご利用に関する動向調査
+- キャンペーン等の抽選及び賞品や商品発送のため
+- お客さまに適した広告配信
+- 本サービスに関する当方の規約、その他諸規程に違反する行為への対応のため
+- その他本サービスに関する重要なお知らせ等、必要に応じた連絡
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 個人情報の第三者への開示・提供の禁止
 
-### Jekyll Themes
+当方は、お客さまよりお預かりした個人情報を適切に管理し、次のいずれかに該当する場合を除き、個人情報を第三者に開示いたしません。
+- お客さまの同意がある場合
+- お客さまが希望されるサービスを行なうために当方が業務を委託する業者に対して開示する場合
+- 法令に基づき開示することが必要である場合
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takecx/Scorer_Docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 個人情報の安全対策
 
-### Support or Contact
+当方は、個人情報の正確性及び安全性確保のために、セキュリティに万全の対策を講じています。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## ご本人の照会
+
+お客さまがご本人の個人情報の照会・修正・削除などをご希望される場合には、ご本人であることを確認の上、対応させていただきます。
+
+## 法令、規範の遵守と見直し
+
+当方は、保有する個人情報に関して適用される日本の法令、その他規範を遵守するとともに、本ポリシーの内容を適宜見直し、その改善に努めます。
+
+## お問い合せ
+
+当方の個人情報の取扱に関するお問い合せは下記までご連絡ください。
+
+Mail:xxx@xxx.xx.xx
