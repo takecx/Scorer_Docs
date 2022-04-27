@@ -45,4 +45,4 @@ takecx（以下「当方」）は、以下のとおり個人情報保護方針�
 
 当方の個人情報の取扱に関するお問い合せは下記までご連絡ください。
 
-Mail:xxx@xxx.xx.xx
+Mail:supp0rt.scorer@gmail.com
